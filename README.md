@@ -27,3 +27,6 @@ tools, and core computer science concepts.
 - Databases
 - System design
 - APIs
+
+## Collaboration
+Notes may include pair programming and collaborative workflows.
